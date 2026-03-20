@@ -1,6 +1,6 @@
 {
   "name": "@jahonn/dev-workflow-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Structured 6-phase development workflow inspired by Garry Tan's gstack. Think → Plan → Build → Review → Test → Ship with role-based subagents. Compatible with Claude Code, Codex, Trae, Cursor, Gemini CLI and 20+ AI tools (Agent Skills standard).",
   "keywords": [
     "agent-skills",
